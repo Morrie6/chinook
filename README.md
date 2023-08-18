@@ -18,11 +18,13 @@ Welcome to the Chinook Database SQL Queries Repository! This repository contains
 
 
 **Contribution**
+
 If you'd like to contribute by adding more insightful SQL queries or enhancing existing ones, you're welcome to submit a pull request. Your contributions will be highly valued!
 
 **Disclaimer**
+
 Please note that the provided queries in this repository are meant for illustrative purposes and may require adjustments to fit your specific database schema and requirements.
 
-Enjoy exploring the music database through SQL queries!
+**Enjoy exploring the music database through SQL queries!**
 
 
